@@ -8,12 +8,17 @@ but the NPU is a GPGPU-style architecture that utilizes conpute-in-memory(CIM).
 NPU是结合存算一体的一种GPGPU-style架构。与传统设计方法对比，存算一体在计算芯片中作用
 
 
+
+
 ## list
 1. GPGPU model
 2. NPU model
 3. Complier by MLIR
-4. RTL  -- todo
-5. relevant study materials.
+4. RTL                 -- todo
+5. online simulator    -- todo
+6. relevant study materials.
+
+
 
 
 ## other
